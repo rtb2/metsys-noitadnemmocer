@@ -1,0 +1,3 @@
+Building Recommendation Engines 2017
+Building a Recommendation System with R 2015 (3.8/7)
+Social Network-Based Recommender Systems 2015
